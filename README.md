@@ -109,11 +109,9 @@ pip install -r requirements.txt
 ## Repository Structure
 
 ```
-├── CMP263_TRABALHO_PRATICO_2025-7.ipynb    # Main notebook
+├── credit-card-fraud-ml-notebook.ipynb    # Main notebook
 ├── README.md
 ├── requirements.txt                        # Dependency list
-├── /data                                   # Instructions for loading data
-└── /figures                                # Output plots (optional)
 ```
 
 ## References
