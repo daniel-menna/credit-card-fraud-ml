@@ -91,7 +91,7 @@ The model captured complex non-linear patterns, though some "invisible" frauds (
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-ml.git
+git clone https://github.com/daniel-menna/credit-card-fraud-ml.git
 cd credit-card-fraud-ml
 ```
 
@@ -104,7 +104,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
-3. Run the notebook `CMP263_TRABALHO_PRATICO_2025-7.ipynb` using Jupyter or VS Code.
+3. Run the notebook `credit-card-fraud-ml-notebook.ipynb` using Jupyter or VS Code.
 
 ## Repository Structure
 
